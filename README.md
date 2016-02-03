@@ -1,0 +1,2 @@
+# eabase
+Enterprise Application base
